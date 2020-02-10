@@ -52,6 +52,7 @@
   .content{
     float:left;
     width:25%;
+    background-image: url(https://bit.ly/2vXevya);
   }
   
   /* The arrow. Keyframes animate it. */
